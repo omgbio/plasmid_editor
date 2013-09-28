@@ -1,0 +1,10 @@
+
+This is a work in progress.
+
+This is a html/css/js widget for visualizing and editing plasmids. It shows the plasmid along with features on the plasmid.
+
+It should have API hooks for editing via an external sequence editor and a default simple GUI for adding and deleting features.
+
+We may want to drop the D3 dependency, since it seems to be adding very little and requires an ugly'ish workaround.
+
+

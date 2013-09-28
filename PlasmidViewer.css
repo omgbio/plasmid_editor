@@ -1,0 +1,25 @@
+
+
+.plasmid_name_label {
+  font-family: sans-serif;
+  font-weight: bold;
+  font-size: 1em;
+}
+
+.plasmid_length_label {
+  font-family: sans-serif;
+  font-size: 0.8em;
+}
+
+.annotation_name_label {
+  font-family: sans-serif;
+  font-size: 0.6em; /* should size dynamically in JS instead of using em */
+}
+
+.annotation {
+  fill: blue;
+}
+
+.annotation_hover {
+  fill: purple;
+}
